@@ -1,3 +1,25 @@
 C:\Users\PrzemysławJeżewski\Documents\Visual Studio 2015\Projects\MobileSystems\MobileSystems\obj\Debug\MobileSystems.csprojResolveAssemblyReference.cache
 C:\Users\PrzemysławJeżewski\Documents\Visual Studio 2015\Projects\MobileSystems\MobileSystems\obj\Debug\PhoneBook.dll
 C:\Users\PrzemysławJeżewski\Documents\Visual Studio 2015\Projects\MobileSystems\MobileSystems\obj\Debug\PhoneBook.pdb
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\obj\Debug\PhoneBook.dll
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\obj\Debug\PhoneBook.pdb
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\bin\Debug\PhoneBook.dll
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\bin\Debug\PhoneBook.pdb
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\bin\Debug\PhoneBook.SystemyMobilne.apk
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\bin\Debug\PhoneBook.SystemyMobilne-Signed.apk
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\obj\Debug\android\bin\PhoneBook.SystemyMobilne.apk
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\obj\Debug\res\layout\addcontact.xml
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\obj\Debug\res\layout\gpsandrest.xml
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\obj\Debug\res\layout\accelerometer.xml
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\obj\Debug\res\layout\main.xml
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\obj\Debug\res\values\strings.xml
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\obj\Debug\res\drawable\icon.png
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\obj\Debug\R.cs.flag
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\obj\Debug\uploadflags.txt
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\obj\Debug\PhoneBook.dll.mdb
+C:\Users\PrzemysławJeżewski\Source\Repos\MobileSystems\MobileSystems\bin\Debug\PhoneBook.dll.mdb

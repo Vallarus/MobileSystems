@@ -11,7 +11,7 @@
 
 [assembly: global::Android.Runtime.ResourceDesignerAttribute("PhoneBook.Resource", IsApplication=true)]
 
-namespace PhoneBook
+namespace MobileSystems
 {
 	
 	

@@ -11,6 +11,8 @@ using Android.Views;
 using Android.Widget;
 using Android.Hardware;
 
+
+
 namespace MobileSystems
 {
     [Activity(Label = "Akcelerometr")]
