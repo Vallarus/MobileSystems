@@ -1,0 +1,3 @@
+C:\Users\PrzemysławJeżewski\Documents\Visual Studio 2015\Projects\MobileSystems\MobileSystems\obj\Debug\MobileSystems.csprojResolveAssemblyReference.cache
+C:\Users\PrzemysławJeżewski\Documents\Visual Studio 2015\Projects\MobileSystems\MobileSystems\obj\Debug\PhoneBook.dll
+C:\Users\PrzemysławJeżewski\Documents\Visual Studio 2015\Projects\MobileSystems\MobileSystems\obj\Debug\PhoneBook.pdb
